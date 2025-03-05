@@ -11,10 +11,10 @@ load_dotenv()
 
 app = Flask(__name__)
 
-account_sid = "ACdf43b7eae4cecf8aa6db09a5bcbf2dd0"
-auth_token = "e0959baceff80037daab834e76adb48f"
-twilio_phone_number = "+17629851298"
-to_number = "+919025792665"
+account_sid = ""
+auth_token = ""
+twilio_phone_number = ""
+to_number = ""
 
 client = Client(account_sid, auth_token)
 
