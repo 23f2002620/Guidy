@@ -1,1 +1,1 @@
-Guidy.
+Guidy
