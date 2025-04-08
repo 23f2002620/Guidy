@@ -8,7 +8,6 @@ Guidy is a project aimed at Tourists that provide a clear cut way for the travel
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Getting Started
 To get started with Guidy, follow these steps:
